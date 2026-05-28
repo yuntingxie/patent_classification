@@ -25,3 +25,5 @@ The script is designed to run on an NVIDIA T4 GPU, but it can also be executed o
 We use [Swedish BERT models](https://huggingface.co/KB/bert-base-swedish-cased) trained by Swedish National Library (KB).
 
 ## Contact
+Yunting Xie (yunting.xie[at]fek.uu.se)
+[Uppsala Patent History Group](www.uphg.se)
